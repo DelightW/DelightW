@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%7C+AI+Architect+%7C+IoT&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=DELIGHT&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%7C+AI+Architect+%7C+IoT&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?size=20&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&height=40&lines=Building+Agentic+RAG+Systems;Developing+EduStream+Enterprise;IoT+Integrations+with+ESP32;USSD+Fintech+Simulations;Full-Stack+Web+Architecture" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=67e8f9&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-2c5364?style=for-the-badge" alt="Open to Work" />
 </p>
 
 # Hi there, I'm Delight 👋
